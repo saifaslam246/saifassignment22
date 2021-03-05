@@ -1,0 +1,37 @@
+.two{
+    list-style-type: none;
+    text-decoration: none;
+
+}
+.one li a:hover{
+    color: red;
+    position: static;
+    top: 0;
+}
+.one{
+    text-align: right;
+    margin: 10px;
+}
+*{
+    padding: 0px;
+    margin: 5px;
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(108.43494882292202deg, rgba(152, 39, 9,1) 5.911420204978038%,rgba(0, 2, 0,1) 5.911420204978038%)
+}
+.background{
+    position: static;
+    top: 0;
+}
+.header-img{
+    width: 100%;
+  height: 200px;
+  background: url(./onon.jpg);
+  background-size: cover;
+}
+.coloumn{
+    float: left;
+    width: 30%;
+}
