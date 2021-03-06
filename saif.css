@@ -1,7 +1,7 @@
 .two{
     list-style-type: none;
     text-decoration: none;
-    font-size: xx-large;
+    font-size: x-large;
 
 }
 .one li a:hover{
@@ -20,7 +20,7 @@
 
 .background{
     width: 100%;
-    height: 30vh;
+    height: 10vh;
     background: linear-gradient(110.79050755798562deg, rgba(152, 39, 9,1) 95.95534407027817%,rgba(0, 2, 0,1) 95.95534407027817%)
 
 }
@@ -36,6 +36,6 @@
 }
 .coloumn{
     float: left;
-    width: 31%;
-    height: 60vh;
+    width: 32%;
+    height: 40vh;
 }
