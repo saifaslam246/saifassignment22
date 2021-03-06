@@ -18,7 +18,7 @@
 }
 .background{
     width: 100%;
-    height: 100%;
+    height: 50vh;
     background: linear-gradient(108.43494882292202deg, rgba(152, 39, 9,1) 5.911420204978038%,rgba(0, 2, 0,1) 5.911420204978038%)
 }
 .background{
@@ -27,11 +27,12 @@
 }
 .header-img{
     width: 100%;
-  height: 200px;
-  background: url(./onon.jpg);
+  height: 100vh;
+  background: url(./f1.jpg);
   background-size: cover;
 }
 .coloumn{
     float: left;
     width: 30%;
+    height: 100vh;
 }
