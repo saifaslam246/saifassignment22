@@ -1,12 +1,12 @@
 .two{
     list-style-type: none;
     text-decoration: none;
-    font-size: x-large;
+    font-size: large;
 
 }
 .one li a:hover{
     color: red;
-    position: fixed;
+    position: static;
     top: 0;
 }
 .one{
@@ -37,5 +37,5 @@
 .coloumn{
     float: left;
     width: 32%;
-    height: 40vh;
+    height: 10vh;
 }
