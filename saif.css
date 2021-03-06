@@ -1,12 +1,12 @@
 .two{
     list-style-type: none;
     text-decoration: none;
-    font-size: x-large;
+    font-size: xx-large;
 
 }
 .one li a:hover{
     color: red;
-    position: static;
+    position: fixed;
     top: 0;
 }
 .one{
@@ -17,12 +17,12 @@
     padding: 0px;
     margin: 5px;
 }
-/*
+
 .background{
     width: 100%;
-    height: 50vh;
-    background: linear-gradient(108.43494882292202deg, rgba(152, 39, 9,1) 5.911420204978038%,rgba(0, 2, 0,1) 5.911420204978038%)
-*/
+    height: 30vh;
+    background: linear-gradient(110.79050755798562deg, rgba(152, 39, 9,1) 95.95534407027817%,rgba(0, 2, 0,1) 95.95534407027817%)
+
 }
 .background{
     position: static;
@@ -36,11 +36,6 @@
 }
 .coloumn{
     float: left;
-    width: 33.3%;
-    height: 100vh;
-}
-.five{
-    width: 100%;
-    height: 50vh;
-    five: linear-gradient(108.43494882292202deg, rgba(152, 39, 9,1) 5.911420204978038%,rgba(0, 2, 0,1) 5.911420204978038%)
+    width: 31%;
+    height: 60vh;
 }
